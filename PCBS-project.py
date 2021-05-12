@@ -10,10 +10,6 @@ stimuli=2*[(beeps,flashes) for flashes in range(1,5) for beeps in range(flashes+
 trials=stimuli
 np.random.shuffle(trials)
 data_obtained=[]
-"""number_of_beeps=[1,2,3,4]
-number_of_flashes=[1]
-trials=3*[(i,j) for i in number_of_flashes for j in number_of_beeps]"""
-
 
 instructions = "Welcome to this flash and beeps experiment! \n \
                 \nRead the following instruction carefully:\n \
@@ -64,16 +60,7 @@ for trial in trials:
 print(data_obtained)
 expyriment.control.end()
 
-
-
-data_obtained=[[0, 1, 1], [0, 1, 1], [3, 1, 1], [1, 1, 1], [2, 1, 1], [1, 1, 1], [4, 1, 1], [1, 1, 1], [2, 1, 3], [3, 1, 3], [1, 1, 1], [3, 1, 2], [0, 1, 1], [2, 1, 3], [4, 1, 3], [3, 1, 3], [4, 1, 3], [0, 1, 1], [2, 1, 2], [4, 1, 3]]
-
-
-
-
-
 #Data treatment
-
 #Influence of the beeps with one flash
 one_flash=[]
 for result in data_obtained : 
