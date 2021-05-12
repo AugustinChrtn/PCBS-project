@@ -12,12 +12,12 @@ The goal of the project is to mimic the experiment done by *Shams et al.* and to
 ## To run the experiment
 
 The experiment can be run on every computer on which expyriment, numpy and matplotlib are installed. The main results of the user's experiment are displayed with matplotlib.
-![control](https://user-images.githubusercontent.com/81678087/118058233-04ab5f80-b38e-11eb-99b5-7b2404909f27.png)
-![one_flash](https://user-images.githubusercontent.com/81678087/118058235-0543f600-b38e-11eb-91b1-b09f2a1fdfbb.png)
-![recap](https://user-images.githubusercontent.com/81678087/118058236-05dc8c80-b38e-11eb-8278-29060b132802.png)
 
 ## Previous experience
 
 I have a rather good coding experience using python but I never used expyriment before neither coded an experiment.
 This class taught me how to do both!
 
+![control](https://user-images.githubusercontent.com/81678087/118058233-04ab5f80-b38e-11eb-99b5-7b2404909f27.png)
+![one_flash](https://user-images.githubusercontent.com/81678087/118058235-0543f600-b38e-11eb-91b1-b09f2a1fdfbb.png)
+![recap](https://user-images.githubusercontent.com/81678087/118058236-05dc8c80-b38e-11eb-8278-29060b132802.png)
