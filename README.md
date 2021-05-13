@@ -17,6 +17,9 @@ The experiment can be run on every computer on which expyriment, numpy and matpl
 
 I have a rather good coding experience using python but I never used expyriment before neither coded an experiment.
 This class taught me how to do both!
+
+## Some graphs obtained
+
 ![one_flash](https://user-images.githubusercontent.com/81678087/118058235-0543f600-b38e-11eb-91b1-b09f2a1fdfbb.png)
 ![control](https://user-images.githubusercontent.com/81678087/118058233-04ab5f80-b38e-11eb-99b5-7b2404909f27.png)
 <p align="center">
